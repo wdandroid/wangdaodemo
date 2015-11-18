@@ -16,4 +16,10 @@ public class Person{
 	}
 	
 	
+public void  setAge(String age){
+		
+		
+	  this.age=	 age;
+	} 
+	
 }
