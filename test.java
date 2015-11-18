@@ -9,5 +9,11 @@ public class Person{
 		return name;
 	}
 	
+	public String  getAge(){
+		
+		
+		return age;
+	}
+	
 	
 }
