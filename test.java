@@ -1,6 +1,6 @@
 
 public class Person{
-	
+	//这是用户名
 	String name;
 	String age;
 	
